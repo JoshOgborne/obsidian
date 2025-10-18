@@ -9,7 +9,7 @@ Forcing the player to turn around and possibly face something frightening adds t
 Baby crying gives the player a sense of discomfort especially given the already bad circumstances.
 The mascot model appearing with multiple limbs gives the feeling of discomfort as that isn't what it should look like.
 ## Anxiety
-Player is given instructions which they are forced to not obey as they are avoiding responsibility
+Player is given instructions which they are forced to not obey as they are avoiding responsibility.
 # Gameplay
 Initial introduction of the game is it pretending to crash, giving a small sense of what's to come.
 Small jumpscare to create a sense of attention during a slow section, makes the player expectant of more in the near future which is generally used to then build up tension.
