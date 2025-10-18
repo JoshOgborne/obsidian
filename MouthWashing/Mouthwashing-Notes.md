@@ -9,10 +9,10 @@ Forcing the player to turn around and possibly face something frightening adds t
 Baby crying gives the player a sense of discomfort especially given the already bad circumstances.
 The mascot model appearing with multiple limbs gives the feeling of discomfort as that isn't what it should look like.
 ## Anxiety
-Player is given instructions which they are forced to not obey as they are avoiding responsibility
+Player is given instructions which they are forced to not obey as they are avoiding responsibility.
 # Gameplay
 Initial introduction of the game is it pretending to crash, giving a small sense of what's to come.
-Small jumpscare to create a sense of attention during a slow section, makes the player expectant of more in the near future which is generally used to then build up tension.
+Small jumpscare to create a sense of tension during a slow section, makes the player expectant of more in the near future which is generally used to then build up tension.
 Doors not working force the player to turn around, which in media has become a staple in horror as the viewer doesn't know what could be behind them/the character, this expectation is somewhat subverted by nothing happening immediately, but the corridor appears to then continue backwards.
 The poster mascot is then shown with an inanimate 3D model, giving a real object to project fear from.
 Increase in the posters on the wall gives us more insight into the character we are playing and how the company has warped their perception of the world.
