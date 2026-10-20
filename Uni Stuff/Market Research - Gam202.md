@@ -7,7 +7,7 @@ Hack and Slash
 Time Travel
 ## Aesthetics
 Werewolves and vampires
-Specific Time period
+Time period sensitive
 3D
 
 ## Games
@@ -25,7 +25,7 @@ Many games with time travel as a theme/mechanic
 # USP's
 
 Combination of top-down hack and slash with werewolf and time-travel aesthetics
-There is a gap in the market for hack and slash games that aren't roguelikes.
+There is a gap in the market for top-down hack and slash games that aren't roguelikes.
 
 # Personas
 
