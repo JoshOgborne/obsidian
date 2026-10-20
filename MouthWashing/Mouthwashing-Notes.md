@@ -20,6 +20,7 @@ Increase in the posters on the wall gives us more insight into the character we 
 # Visuals
 ## Style
 ## Colour
+Distinct use of reds and blacks, giving a uniform colour format.
 ## Assets
 Company posters along the walls everywhere, giving the player some context for the environment they are in, as well as a recognizable mascot.
 Mascot becomes distorted and appears with multiple limbs, this works with the distorted sound to instill more discomfort in the player.
@@ -38,10 +39,13 @@ Baby crying in the background gives the sense of fear and discomfort, and is use
 Loud alarm giving a sense of urgency.
 # Characters
 ## Design
+The way we are introduced to the characters is a group meeting where they all seem to have distinct outlooks on the situation and life.
 ## Individuals
 ### Anya
 ### Curly
 ### Swansea
+Cares about doing things right, by the book, wants money.
 ### Daisuke
+Positive outlook, optimistic, somewhat comedic relief
 ### Jimmy
-Can't deal with the consequences of his actions
+Attempts to take things into his own hands.
