@@ -18,7 +18,7 @@ Minecraft Dungeons
 
 Sworn
 
-Life is Strange - TIme Travel decision making
+Life is Strange - Time Travel decision making
 
 Overwatch - Tracer
 
@@ -65,6 +65,5 @@ One of the USP's is having the player able to manipulate time while in action, a
 A cohesive theming on time-travel between narrative and gameplay.
 Action packed top-down singleplayer gameplay without and roguelike or roguelite elements.
 Unique combination of hack and slash with werewolf and vampire aesthetics
-# Personas
 
 
