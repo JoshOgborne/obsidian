@@ -47,11 +47,13 @@ Low estimated units sold = 8 360 000
 Low estimated units sold = 5 177 500
 Low Estimated revenue = 30 029 500
 
-## Conclusion
+#### Conclusion
 
 Top down action games are generally well received with Hades and Hades 2 being large examples. Games including time travel as a narrative focus can be very well received. 
 
+# Target Audience
 
+Our target audience is therefore are 18-28 year olds, people who want the hack and slash experience without the current bombardment of roguelike/roguelite elements dominating the current market. People who enjoy satisfying combat with a more gory aesthetic and people who have been missing that classic Werewolf VS Vampire narrative.
 # USP's
 
 Combination of top-down hack and slash with werewolf and time-travel aesthetics
